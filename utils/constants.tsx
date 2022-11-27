@@ -1,8 +1,8 @@
 import { MdSportsBasketball } from 'react-icons/md';
 import { GiLipstick } from 'react-icons/gi';
 import { FaCat } from 'react-icons/fa';
-import { IoFastFood,IoGameController,IoHappy } from "react-icons/io5";
-import { HiCode, HiMusicNote } from "react-icons/Hi";
+import { IoFastFood,IoGameController, IoHappy } from 'react-icons/io5';
+import { HiCode, HiMusicNote } from 'react-icons/Hi';
 
 export const topics = [
   {
@@ -40,5 +40,5 @@ export const topics = [
 ];
 
 export const footerList1 = ['About', 'Newsroom', 'Store', 'Contact', 'Carrers', 'ByteDance', 'Creator Directory']
-export const footerList2 = [ 'OvO for Good','Advertise','Developers','Transparency','OvO Rewards' ]
+export const footerList2 = [ 'TikTik for Good','Advertise','Developers','Transparency','TikTik Rewards' ]
 export const footerList3 = [ 'Help', 'Safety', 'Terms', 'Privacy', 'Creator Portal', 'Community Guidelines' ]
