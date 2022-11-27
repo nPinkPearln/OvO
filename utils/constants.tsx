@@ -2,7 +2,7 @@ import { MdSportsBasketball } from 'react-icons/md';
 import { GiLipstick } from 'react-icons/gi';
 import { FaCat } from 'react-icons/fa';
 import { IoFastFood,IoGameController,IoHappy } from "react-icons/io5";
-import { HiCode,HiMusicNote } from "react-icons/Hi";
+import { HiCode, HiMusicNote } from "react-icons/Hi";
 
 export const topics = [
   {
